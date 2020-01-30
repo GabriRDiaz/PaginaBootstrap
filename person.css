@@ -1,0 +1,29 @@
+.navbar {
+   background-color: transparent;
+   background: transparent;
+   border-color: transparent;
+}
+.whiteP{
+  color: white;
+}
+.whitePB{
+  color: white;
+  font-weight: bold;
+}
+.whitesPB{
+  color: #999966;
+  font-weight: bold;
+}
+.redP{
+  color: red;
+}
+.navbar li { color: #000 }
+.txtCenter{
+  text-align: center;
+}
+table th {
+   text-align: center;
+}
+table td {
+   text-align: center;
+}
